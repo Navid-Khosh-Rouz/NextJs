@@ -22,6 +22,4 @@ Translations are located in public folder. Edit them and use them in your projec
 
 ## Packages
 
-bootstrap-5
-bootstrap-icons
-next-i18next
+bootstrap-5 | bootstrap-icons | next-i18next
