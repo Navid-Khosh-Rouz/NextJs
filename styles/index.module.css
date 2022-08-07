@@ -1,0 +1,18 @@
+.page-container-min-height {
+  min-height: calc(100vh - 112px);
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.page-container {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.active-navlink {
+  font-weight: bold;
+}
+
+.max-scrolling-height {
+  --bs-scroll-height: 100px;
+}

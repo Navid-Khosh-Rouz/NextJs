@@ -1,0 +1,16 @@
+.loading-ui-wrapper {
+  z-index: 100000;
+  position: fixed;
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+  top: 0px;
+  left: 0px;
+  background-color: rgba(114, 103, 103, 0.452);
+}
+
+.loading-ui-wrapper * {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}

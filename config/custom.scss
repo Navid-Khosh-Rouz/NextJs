@@ -1,0 +1,52 @@
+// Body
+$body-bg: #f8fafc;
+$body-color: #000;
+// Typography
+$font-family-sans-serif: 'Nunito', sans-serif;
+$font-size-base: 1rem;
+$line-height-base: 1.5;
+$font-weight-base: 400;
+
+// Colors
+$blue: #3490dc;
+$indigo: #6574cd;
+$purple: #9561e2;
+$pink: #f66d9b;
+$red: #e3342f;
+$orange: #f6993f;
+$yellow: #ffed4a;
+$green: #11522c;
+$teal: #4dc0b5;
+$cyan: #6cb2eb;
+$white: #fff;
+$black: #000;
+$warning: $orange;
+
+
+$min-contrast-ratio:   2 !default;
+
+
+$grid-breakpoints: (
+  xs: 0,
+  sm: 576px,
+  md: 768px,
+  lg: 992px,
+  xl: 1200px,
+  xxl: 1400px,
+  xxxl: 1600px
+);
+
+
+$container-max-widths: (
+  sm: 540px,
+  md: 720px,
+  lg: 960px,
+  xl: 1140px,
+  xxl: 1320px,
+  xxxl: 1600px
+);
+
+
+
+
+@import '~bootstrap/scss/bootstrap.scss';
