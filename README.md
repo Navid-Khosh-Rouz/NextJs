@@ -16,6 +16,12 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 You can start editing the page by modifying `pages/index.js`.
 
-## Getting Started
+## Note
 
 Translations are located in public folder. Edit them and use them in your project
+
+## Packages
+
+bootstrap-5
+bootstrap-icons
+next-i18next
